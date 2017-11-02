@@ -6,9 +6,19 @@ The Kubernetes Software Conformance Working Group operates under the aegis of CN
 
 The goal for the group is to create a software conformance program that any Kubernetes implementation can use to demonstrate that they are conformant and interoperate. Here is a [list](https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/edit#gid=0) of all known current implementations of Kubernetes.
 
+# Instructions
+
+Are [here](instructions.md)
+
 # Mailing List
 
 https://lists.cncf.io/mailman/listinfo/cncf-k8s-conformance
+
+⚠️ To view all the docs below your Google account MUST also belong to [kubernetes-dev](https://goo.gl/C4CR8r) (though you don't need to actually receive mail from the group).
+
+# Slack
+
+[slack.k8s.io](slack.k8s.io) #k8s-conformance 
 
 # Documentation
 
@@ -17,16 +27,19 @@ https://lists.cncf.io/mailman/listinfo/cncf-k8s-conformance
 
 # Upcoming Meetings
 
-* Tuesday, September 12, 3 to 5 PM PT, Los Angeles. Please [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdbvyJvO17RIOe827PBVhiJXwXdvW7UeBD7lwGjR-olzsmaJQ/viewform)
-* Monday, November 27, 1:30 to 5:30 PM PT, Las Vegas
+* [Kubecon](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america), December 6-8 (date TBD), Austin
 
 # Past Meetings & Presentations
 
 NB. you need to join [kubernetes-dev](https://goo.gl/C4CR8r) to access all documents.
 
+## September 26, Video Meet
+* [Notes](https://docs.google.com/document/d/1XkuZToB31AAjOCy4pMxzxS2HHcRj4O_Xu_F84l8ecAc/edit)
+
+
 ## September 12, Los Angeles
-* [Notes] https://docs.google.com/document/d/1HcyeqfFCZ3pVvUg3HRqEPoAeiRKKH5oERm97kUy27RM/edit
-* [Slides] https://docs.google.com/presentation/d/198DZzAC22rLGNrLYpoEha-PuJE3QAkSaJdZ37lkJ8r4/edit#slide=id.g19497da556_0_12
+* [Notes](https://docs.google.com/document/d/1HcyeqfFCZ3pVvUg3HRqEPoAeiRKKH5oERm97kUy27RM/edit)
+* [Slides](https://docs.google.com/presentation/d/198DZzAC22rLGNrLYpoEha-PuJE3QAkSaJdZ37lkJ8r4/edit#slide=id.g19497da556_0_12)
 
 ## July 27, Seattle
 
